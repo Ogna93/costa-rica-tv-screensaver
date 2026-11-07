@@ -1,0 +1,14 @@
+{
+  "assets": [
+    {
+      "url-1080-H264": "https://raw.githubusercontent.com/Ogna93/costa-rica-tv-screensaver/main/Costa_Rica_TV_slideshow.mp4",
+      "url-1080-SDR": "https://raw.githubusercontent.com/Ogna93/costa-rica-tv-screensaver/main/Costa_Rica_TV_slideshow.mp4",
+      "url-1080-HDR": "https://raw.githubusercontent.com/Ogna93/costa-rica-tv-screensaver/main/Costa_Rica_TV_slideshow.mp4",
+      "url-4K-SDR": "https://raw.githubusercontent.com/Ogna93/costa-rica-tv-screensaver/main/Costa_Rica_TV_slideshow.mp4",
+      "url-4K-HDR": "https://raw.githubusercontent.com/Ogna93/costa-rica-tv-screensaver/main/Costa_Rica_TV_slideshow.mp4",
+      "accessibilityLabel": "Paisajes de Costa Rica",
+      "scene": "Costa Rica",
+      "timeOfDay": "day"
+    }
+  ]
+}

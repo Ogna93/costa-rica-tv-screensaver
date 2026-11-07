@@ -1,0 +1,11 @@
+# Costa Rica TV settings for Aerial Views 1.8.5
+bool_custom_media_enabled=true
+string_custom_media_quality=VIDEO_1080_SDR
+string_custom_media_urls=https\://gist.githubusercontent.com/Ogna93/45fa1d363f0cb050975393753c8ce19b/raw/entries.json
+string_custom_media_urls_cache=https\://gist.githubusercontent.com/Ogna93/45fa1d363f0cb050975393753c8ce19b/raw/entries.json
+string_custom_media_urls_summary=1 URL\: 1 video
+bool_apple_videos_enabled=false
+bool_amazon_videos_enabled=false
+bool_comm1_videos_enabled=false
+bool_comm2_videos_enabled=false
+bool_local_videos_enabled=false
